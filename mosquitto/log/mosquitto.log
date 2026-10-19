@@ -1,0 +1,265 @@
+1790419940: mosquitto version 2.1.2 starting
+1790419940: Config loaded from /mosquitto/config/mosquitto.conf.
+1790419940: Bridge support available.
+1790419940: Persistence support available.
+1790419940: TLS support available.
+1790419940: TLS-PSK support available.
+1790419940: Websockets support available.
+1790419940: Opening ipv4 listen socket on port 1883.
+1790419940: Opening ipv6 listen socket on port 1883.
+1790419940: mosquitto version 2.1.2 running
+1790419941: New connection from 172.18.0.5:58191 on port 1883.
+1790419941: New client connected from 172.18.0.5:58191 as sensor-rios-01 (p4, c1, k60).
+1790419941: Client sensor-rios-01 [172.18.0.5:58191] disconnected: connection closed by client.
+1790419942: New connection from 172.18.0.5:41719 on port 1883.
+1790419942: New client connected from 172.18.0.5:41719 as sensor-rios-01 (p4, c1, k60).
+1790419942: Client sensor-rios-01 [172.18.0.5:41719] disconnected: connection closed by client.
+1790419943: New connection from 172.18.0.6:58955 on port 1883.
+1790419943: New client connected from 172.18.0.6:58955 as sensor-rios-01 (p4, c1, k60).
+1790419944: Client sensor-rios-01 [172.18.0.6:58955] disconnected: connection closed by client.
+1790419945: New connection from 172.18.0.6:49417 on port 1883.
+1790419945: New client connected from 172.18.0.6:49417 as sensor-rios-01 (p4, c1, k60).
+1790419945: Client sensor-rios-01 [172.18.0.6:49417] disconnected: connection closed by client.
+1790419946: New connection from 172.18.0.6:47437 on port 1883.
+1790419946: New client connected from 172.18.0.6:47437 as sensor-rios-01 (p4, c1, k60).
+1790419947: Client sensor-rios-01 [172.18.0.6:47437] disconnected: connection closed by client.
+1790419949: New connection from 172.18.0.5:40641 on port 1883.
+1790419949: New client connected from 172.18.0.5:40641 as sensor-rios-01 (p4, c1, k60).
+1790419949: Client sensor-rios-01 [172.18.0.5:40641] disconnected: connection closed by client.
+1790419952: New connection from 172.18.0.5:49533 on port 1883.
+1790419952: New client connected from 172.18.0.5:49533 as sensor-rios-01 (p4, c1, k60).
+1790419953: Client sensor-rios-01 [172.18.0.5:49533] disconnected: connection closed by client.
+1790419960: New connection from 172.18.0.5:39255 on port 1883.
+1790419960: New client connected from 172.18.0.5:39255 as sensor-rios-01 (p4, c1, k60).
+1790419960: Client sensor-rios-01 [172.18.0.5:39255] disconnected: connection closed by client.
+1790419973: New connection from 172.18.0.5:55993 on port 1883.
+1790419973: New client connected from 172.18.0.5:55993 as sensor-rios-01 (p4, c1, k60).
+1790419973: Client sensor-rios-01 [172.18.0.5:55993] disconnected: connection closed by client.
+1790419999: New connection from 172.18.0.5:39145 on port 1883.
+1790419999: New client connected from 172.18.0.5:39145 as sensor-rios-01 (p4, c1, k60).
+1790420000: Client sensor-rios-01 [172.18.0.5:39145] disconnected: connection closed by client.
+1790420051: New connection from 172.18.0.5:32867 on port 1883.
+1790420051: New client connected from 172.18.0.5:32867 as sensor-rios-01 (p4, c1, k60).
+1790420052: Client sensor-rios-01 [172.18.0.5:32867] disconnected: connection closed by client.
+1790420109: New connection from 172.18.0.5:32922 on port 1883.
+1790420109: New client connected from 172.18.0.5:32922 as telegraf-rios (p4, c0, k60).
+1790420112: New connection from 172.18.0.6:44799 on port 1883.
+1790420112: New client connected from 172.18.0.6:44799 as sensor-rios-01 (p4, c1, k60).
+1790420112: Client sensor-rios-01 [172.18.0.6:44799] disconnected: connection closed by client.
+1790420113: Client telegraf-rios [172.18.0.5:32922] disconnected.
+1790420113: mosquitto version 2.1.2 terminating
+1790420113: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790420128: mosquitto version 2.1.2 starting
+1790420128: Config loaded from /mosquitto/config/mosquitto.conf.
+1790420128: Bridge support available.
+1790420128: Persistence support available.
+1790420128: TLS support available.
+1790420128: TLS-PSK support available.
+1790420128: Websockets support available.
+1790420128: Opening ipv4 listen socket on port 1883.
+1790420128: Opening ipv6 listen socket on port 1883.
+1790420128: mosquitto version 2.1.2 running
+1790420128: New connection from 172.18.0.5:44843 on port 1883.
+1790420128: New client connected from 172.18.0.5:44843 as sensor-rios-01 (p4, c1, k60).
+1790420129: New connection from 172.18.0.6:44674 on port 1883.
+1790420129: Client telegraf-rios [(null):0] disconnected: session taken over.
+1790420129: New client connected from 172.18.0.6:44674 as telegraf-rios (p4, c0, k60).
+1790420328: Client telegraf-rios [172.18.0.6:44674] disconnected.
+1790420338: Client sensor-rios-01 [172.18.0.5:44843] disconnected: connection closed by client.
+1790420339: mosquitto version 2.1.2 terminating
+1790420339: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790420355: mosquitto version 2.1.2 starting
+1790420355: Config loaded from /mosquitto/config/mosquitto.conf.
+1790420355: Bridge support available.
+1790420355: Persistence support available.
+1790420355: TLS support available.
+1790420355: TLS-PSK support available.
+1790420355: Websockets support available.
+1790420355: Opening ipv4 listen socket on port 1883.
+1790420355: Opening ipv6 listen socket on port 1883.
+1790420355: mosquitto version 2.1.2 running
+1790420356: New connection from 172.18.0.5:53615 on port 1883.
+1790420356: New client connected from 172.18.0.5:53615 as sensor-rios-01 (p4, c1, k60).
+1790420356: New connection from 172.18.0.6:60672 on port 1883.
+1790420356: Client telegraf-rios [(null):0] disconnected: session taken over.
+1790420356: New client connected from 172.18.0.6:60672 as telegraf-rios (p4, c0, k60).
+1790420502: Client telegraf-rios [172.18.0.6:60672] disconnected.
+1790420502: New connection from 172.18.0.6:51558 on port 1883.
+1790420502: Client telegraf-rios [172.18.0.6:60672] disconnected: session taken over.
+1790420502: New client connected from 172.18.0.6:51558 as telegraf-rios (p4, c0, k60).
+1790420588: Client telegraf-rios [172.18.0.6:51558] disconnected.
+1790420598: Client sensor-rios-01 [172.18.0.5:53615] disconnected: connection closed by client.
+1790420598: mosquitto version 2.1.2 terminating
+1790420598: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790420613: mosquitto version 2.1.2 starting
+1790420613: Config loaded from /mosquitto/config/mosquitto.conf.
+1790420613: Bridge support available.
+1790420613: Persistence support available.
+1790420613: TLS support available.
+1790420613: TLS-PSK support available.
+1790420613: Websockets support available.
+1790420613: Opening ipv4 listen socket on port 1883.
+1790420613: Opening ipv6 listen socket on port 1883.
+1790420613: mosquitto version 2.1.2 running
+1790420613: New connection from 172.18.0.5:42333 on port 1883.
+1790420613: New client connected from 172.18.0.5:42333 as sensor-rios-01 (p4, c1, k60).
+1790420614: New connection from 172.18.0.6:33128 on port 1883.
+1790420614: Client telegraf-rios [(null):0] disconnected: session taken over.
+1790420614: New client connected from 172.18.0.6:33128 as telegraf-rios (p4, c0, k60).
+1790420758: New connection from ::1:47486 on port 1883.
+1790420758: New client connected from ::1:47486 as auto-65DB556D-3B95-2C02-116A-1B26DAEB0A47 (p4, c1, k60).
+1790420778: Client auto-65DB556D-3B95-2C02-116A-1B26DAEB0A47 [::1:47486] disconnected.
+1790420787: New connection from ::1:33200 on port 1883.
+1790420787: New client connected from ::1:33200 as auto-87073FE6-4E25-0893-B995-0415FD9BFBA2 (p4, c1, k60).
+1790420860: New connection from ::1:42824 on port 1883.
+1790420860: New client connected from ::1:42824 as auto-07A617E4-C9AB-C3F3-9757-1C14DDFE6055 (p4, c1, k60).
+1790420865: New connection from ::1:60902 on port 1883.
+1790420865: New client connected from ::1:60902 as auto-290DA815-916F-C8EF-823E-4CCA8197BF79 (p4, c1, k60).
+1790420865: Client auto-290DA815-916F-C8EF-823E-4CCA8197BF79 [::1:60902] disconnected.
+1790420877: Client auto-07A617E4-C9AB-C3F3-9757-1C14DDFE6055 [::1:42824] disconnected.
+1790420881: New connection from ::1:36516 on port 1883.
+1790420881: New client connected from ::1:36516 as auto-ECF93786-BE98-E00D-C2F4-55F819E2F189 (p4, c1, k60).
+1790420922: Client auto-ECF93786-BE98-E00D-C2F4-55F819E2F189 [::1:36516] disconnected.
+1790420924: New connection from ::1:37064 on port 1883.
+1790420924: New client connected from ::1:37064 as auto-17169C82-A5DB-D698-68B0-54B8631192D1 (p4, c1, k60).
+1790420931: Client auto-87073FE6-4E25-0893-B995-0415FD9BFBA2 [::1:33200] disconnected.
+1790420932: New connection from ::1:56964 on port 1883.
+1790420932: New client connected from ::1:56964 as auto-69AE23BA-C66E-C7D7-256C-30F3595A4AEE (p4, c1, k60).
+1790420932: Client auto-69AE23BA-C66E-C7D7-256C-30F3595A4AEE [::1:56964] disconnected.
+1790420976: Client sensor-rios-01 [172.18.0.5:42333] disconnected: connection closed by client.
+1790420977: New connection from 172.18.0.5:34019 on port 1883.
+1790420977: New client connected from 172.18.0.5:34019 as sensor-rios-01 (p4, c1, k60).
+1790421061: New connection from ::1:54038 on port 1883.
+1790421061: New client connected from ::1:54038 as auto-F957D75C-0156-21F9-36F2-395EFACAE0B8 (p4, c1, k60).
+1790421061: Client auto-F957D75C-0156-21F9-36F2-395EFACAE0B8 [::1:54038] disconnected.
+1790421159: Client auto-17169C82-A5DB-D698-68B0-54B8631192D1 [::1:37064] disconnected.
+1790595872: Client telegraf-rios [172.18.0.6:33128] disconnected.
+1790595882: Client sensor-rios-01 [172.18.0.5:34019] disconnected: connection closed by client.
+1790595882: mosquitto version 2.1.2 terminating
+1790595882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790595909: mosquitto version 2.1.2 starting
+1790595909: Config loaded from /mosquitto/config/mosquitto.conf.
+1790595909: Bridge support available.
+1790595909: Persistence support available.
+1790595909: TLS support available.
+1790595909: TLS-PSK support available.
+1790595909: Websockets support available.
+1790595909: Opening ipv4 listen socket on port 1883.
+1790595909: Opening ipv6 listen socket on port 1883.
+1790595909: mosquitto version 2.1.2 running
+1790595910: New connection from 172.18.0.5:59923 on port 1883.
+1790595910: New client connected from 172.18.0.5:59923 as sensor-rios-01 (p4, c1, k60).
+1790595911: New connection from 172.18.0.6:60320 on port 1883.
+1790595911: Client telegraf-rios [(null):0] disconnected: session taken over.
+1790595911: New client connected from 172.18.0.6:60320 as telegraf-rios (p4, c0, k60).
+1790596485: Client telegraf-rios [172.18.0.6:60320] disconnected.
+1790596495: Client sensor-rios-01 [172.18.0.5:59923] disconnected: connection closed by client.
+1790596496: mosquitto version 2.1.2 terminating
+1790596496: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790596513: mosquitto version 2.1.2 starting
+1790596513: Config loaded from /mosquitto/config/mosquitto.conf.
+1790596513: Bridge support available.
+1790596513: Persistence support available.
+1790596513: TLS support available.
+1790596513: TLS-PSK support available.
+1790596513: Websockets support available.
+1790596513: Opening ipv4 listen socket on port 1883.
+1790596513: Opening ipv6 listen socket on port 1883.
+1790596513: mosquitto version 2.1.2 running
+1790596514: New connection from 172.18.0.6:34304 on port 1883.
+1790596514: Client telegraf-rios [(null):0] disconnected: session taken over.
+1790596514: New client connected from 172.18.0.6:34304 as telegraf-rios (p4, c0, k60).
+1790596514: New connection from 172.18.0.5:33777 on port 1883.
+1790596514: New client connected from 172.18.0.5:33777 as sensor-rios-01 (p4, c1, k60).
+1790597477: Client telegraf-rios [172.18.0.6:34304] disconnected.
+1790597487: Client sensor-rios-01 [172.18.0.5:33777] disconnected: connection closed by client.
+1790597487: mosquitto version 2.1.2 terminating
+1790597487: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790597504: mosquitto version 2.1.2 starting
+1790597504: Config loaded from /mosquitto/config/mosquitto.conf.
+1790597504: Bridge support available.
+1790597504: Persistence support available.
+1790597504: TLS support available.
+1790597504: TLS-PSK support available.
+1790597504: Websockets support available.
+1790597504: Opening ipv4 listen socket on port 1883.
+1790597504: Opening ipv6 listen socket on port 1883.
+1790597504: mosquitto version 2.1.2 running
+1790597505: New connection from 172.18.0.5:38215 on port 1883.
+1790597505: New client connected from 172.18.0.5:38215 as sensor-rios-01 (p4, c1, k60).
+1790597506: New connection from 172.18.0.6:38520 on port 1883.
+1790597506: New client connected from 172.18.0.6:38520 as telegraf-rios-v2 (p4, c1, k60).
+1790599311: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790601116: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790604655: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790614762: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790617669: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790619474: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790621415: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790777522: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790779324: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790781125: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790782926: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1790786083: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791224582: mosquitto version 2.1.2 starting
+1791224582: Config loaded from /mosquitto/config/mosquitto.conf.
+1791224582: Bridge support available.
+1791224582: Persistence support available.
+1791224582: TLS support available.
+1791224582: TLS-PSK support available.
+1791224582: Websockets support available.
+1791224582: Opening ipv4 listen socket on port 1883.
+1791224582: Opening ipv6 listen socket on port 1883.
+1791224582: mosquitto version 2.1.2 running
+1791224584: New connection from 172.18.0.5:35686 on port 1883.
+1791224584: New client connected from 172.18.0.5:35686 as telegraf-rios-v2 (p4, c1, k60).
+1791224585: New connection from 172.18.0.2:55713 on port 1883.
+1791224585: New client connected from 172.18.0.2:55713 as sensor-rios-01 (p4, c1, k60).
+1791226381: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791826408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791828209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791830011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791831861: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791922995: mosquitto version 2.1.2 starting
+1791922995: Config loaded from /mosquitto/config/mosquitto.conf.
+1791922995: Bridge support available.
+1791922995: Persistence support available.
+1791922995: TLS support available.
+1791922995: TLS-PSK support available.
+1791922995: Websockets support available.
+1791922995: Opening ipv4 listen socket on port 1883.
+1791922995: Opening ipv6 listen socket on port 1883.
+1791922995: mosquitto version 2.1.2 running
+1791922998: New connection from 172.18.0.5:49737 on port 1883.
+1791922998: New client connected from 172.18.0.5:49737 as sensor-rios-01 (p4, c1, k60).
+1791922999: New connection from 172.18.0.6:39900 on port 1883.
+1791922999: New client connected from 172.18.0.6:39900 as telegraf-rios-v2 (p4, c1, k60).
+1791924878: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791977161: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791978965: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791982195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791983996: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791985797: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791987637: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791989445: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791991255: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1791994335: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792078987: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792359549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792415114: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792422575: mosquitto version 2.1.2 starting
+1792422575: Config loaded from /mosquitto/config/mosquitto.conf.
+1792422575: Bridge support available.
+1792422575: Persistence support available.
+1792422575: TLS support available.
+1792422575: TLS-PSK support available.
+1792422575: Websockets support available.
+1792422575: Opening ipv4 listen socket on port 1883.
+1792422575: Opening ipv6 listen socket on port 1883.
+1792422575: mosquitto version 2.1.2 running
+1792422579: New connection from 172.18.0.4:41104 on port 1883.
+1792422579: New client connected from 172.18.0.4:41104 as telegraf-rios-v2 (p4, c1, k60).
+1792422580: New connection from 172.18.0.2:57139 on port 1883.
+1792422580: New client connected from 172.18.0.2:57139 as sensor-rios-01 (p4, c1, k60).
+1792430010: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792431735: Saving in-memory database to /mosquitto/data//mosquitto.db.
